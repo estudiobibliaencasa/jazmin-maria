@@ -1,0 +1,15 @@
+#img-container {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+#img-container img {
+  display: inline-block;
+  justify-items: center;
+  align-items: center;
+}
+
+#img-container em {
+  display: block;
+  text-align: center;
+}

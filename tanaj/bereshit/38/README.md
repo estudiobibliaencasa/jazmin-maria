@@ -1,6 +1,32 @@
+<head>
+  <link rel="stylesheet" type="text/css" href="./css/style.css">
+</head>
+
 # Génesis 38 - Biblia Kadosh Israelita Mesiánica
 
 1 Fue en este tiempo que Yehudáh salió de entre sus hermanos y se asentó cerca de un hombre llamado Hirah que era un Adulami.
+
+<div id="img-container">
+  <img src="./img/adulam.png" alt="Adulam">
+  <em>Territorio de Adulam</em>
+</div>
+
+<div id="img-container">
+  <img src="./img/cueva-adulam.png" alt="Cueva de Adulam">
+  <em>Cueva de Adulam (Rey David)</em>
+</div>
+
+<div id="img-container">
+  <img src="./img/adulam-aviso.jpg" alt="Aviso en Adulam">
+  <em>Aviso en Adulam</em>
+</div>
+
+<div id="img-container">
+  <a style="display:block" href="https://maps.app.goo.gl/rZfA6R4m6auV8nfy5">
+    <img src="./img/screenshot-adulam-g-map.jpg" alt="Aviso en Adulam">
+  </a>
+  <em>Adulam en Google Maps</em>
+</div>
 
 2 Allí Yehudáh vio una de las hijas de un cierto Kenaani cuyo nombre era Shua, y él la tomó y durmió con ella.
 
